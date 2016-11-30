@@ -1,0 +1,31 @@
+.tituloPagina{
+    margin-top: .5%;
+    margin-bottom: 1%;
+}
+
+.juego{
+    position: relative;
+    padding: 0px;
+}
+
+h3{
+    text-align: center;
+}
+
+a{
+    color: black;
+}
+
+.juego img {
+    transition: all .5s;
+}
+
+.juego img:hover{
+    transform: scale(1.1);
+}
+
+.footer-dark {
+  padding:50px 0;
+  color:#f0f9ff;
+  background-color:#282d32;
+}

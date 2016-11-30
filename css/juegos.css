@@ -1,0 +1,37 @@
+.textto{
+    font-size: 15px;
+    text-align: justify
+}
+
+.texto{
+    text-align: center;
+    font-size: 24px;
+    line-height: 1.3em;
+    letter-spacing: 0.3px;
+    color: #FFF;
+    background: #0088b2;
+    border-radius: 10px;
+    margin-top: 14px;
+    padding: 7px 0 7px 7px;
+    font-family: 'Open Sans',Arial,sans-serif;
+}
+
+.margen{
+    margin-top: 18px;
+    margin-bottom: 18px;
+}
+
+.text-center{
+    font-size: 16px;
+}
+
+.enlace{
+    text-align: center;
+    font-size: 18px;
+    font-style: italic;
+    color: black;
+}
+
+.portada{
+    margin-bottom: 18px;
+}
